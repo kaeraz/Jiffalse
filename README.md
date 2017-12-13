@@ -1,1 +1,1 @@
-# scripty
+# NanoCompiler
